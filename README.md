@@ -37,7 +37,7 @@ The stability of this process is affected by the volatile and non-optimal physic
    
 The rougher concentrate undergoes two stages of purification. After purification, we have the final concentrate and new tails.
 
-#Data description
+# Data description
 
 Technological process
 
